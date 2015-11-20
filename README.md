@@ -12,7 +12,7 @@ I just wrote this because I needed it. Pull requests gladly accepted!
 
 ## Installation
 
-	npm install npm-sass
+	npm install sass-npm
 
 ## Usage
 
