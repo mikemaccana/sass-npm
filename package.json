@@ -1,0 +1,17 @@
+{
+  "name": "sass-npm",
+  "version": "1.0.0",
+  "description": "Include SASS files using their NPM module name",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "sass",
+    "npm",
+    "includes",
+    "require"
+  ],
+  "author": "Mike MacCana <mike@certsimple.com>",
+  "license": "ISC"
+}
